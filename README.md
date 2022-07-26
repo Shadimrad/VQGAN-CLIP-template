@@ -1,4 +1,6 @@
-#AI Art Generator via Text
+# AI Art Generator via Text
+
+
 VQGAN-CLIP-template that generates arts in the form of boomerang .gif files from random .txt files
 
 A Jupyter notebook with comments to guide you on the usage!
@@ -6,7 +8,7 @@ A Jupyter notebook with comments to guide you on the usage!
 Using Google Collab is recommended :)
 
 
-#Sample
+## Sample
 "Network of Reccursion"
 Resized sample (quality reduced + 400 frames out of 1991 + speed up!):
 
